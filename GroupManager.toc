@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: GroupManager (FGA/APF)
+## Author: Bannion
+## SavedVariables: FGA_Config
+GroupManager.lua
