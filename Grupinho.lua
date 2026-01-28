@@ -130,7 +130,7 @@ bReset:SetScript("OnClick", function()
     if GetNumRaidMembers() > 0 then
         for i=1, 40 do 
             local n = GetRaidRosterInfo(i)
-            if n and n ~= UnitName("player") then UninviteUnit(n) end 
+            if n and n ~= UnitName("player") then UninviteByName(n) end 
         end
     else
         for i=1, 4 do 
@@ -207,3 +207,4 @@ end)
 
 SLASH_GRUPINHO1 = "/grupinho"
 SlashCmdList["GRUPINHO"] = function() if GrupinhoFrame:IsShown() then GrupinhoFrame:Hide() else GrupinhoFrame:Show() end end
+
