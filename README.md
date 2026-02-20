@@ -16,3 +16,7 @@ Commands:
 
 Only the leader needs the addon.
 Other players do not need to install anything.
+
+InviteManager_Config
+InviteManagerFrame
+SLASH_INVITEMANAGER1
