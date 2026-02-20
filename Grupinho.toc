@@ -1,7 +1,8 @@
 ## Interface: 11200
-## Title: [|cff355E3BG|r]rupinho |cffFF8DA1Gestor de Amiguinhos|r
-## Notes: Gestor de Grupo para Turtle WoW.
-## Author: ThePeregris
-## Version: 1.11 (Final)
-## SavedVariables: Grupinho_Config
-Grupinho.lua
+## Title: InviteManager
+## Notes: Raid & Party Invite Manager with Queue and Ready Check
+## Author: Bannion & ThePeregris
+## Version: 1.0
+## SavedVariables: InviteManager_Config
+
+InviteManager.lua
